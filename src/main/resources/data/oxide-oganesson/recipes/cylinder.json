@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "___",
+        "iGi",
+        "iIi"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:stone_slab"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        }
+    },
+    "result": {
+        "item": "oxide-oganesson:cylinder",
+        "count": 3
+    },
+    "group": "oxide-oganesson"
+}
